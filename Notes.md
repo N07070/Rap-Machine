@@ -1,5 +1,17 @@
-# Choses à faire
+# Notes and links
 
-- Rajoute un graphique pour la densité des rhymes, la similtude tu texte par rapport à ce qu'a produit l'artiste
-- 10 words with pronounciation and nbr syllables in context; position and number of syllables in phrase,  for 10 or more occurences of each word
-- Voir End Rhyme pour générer la densité des rhymes -> À savoir, la prononciation des voyelles de X phrases à la position L, et comparer la prononciation à la phrase L-1
+
+## Tools to play with languistics
+
+https://google.github.io/tacotron/ - A TTS 
+http://www.fon.hum.uva.nl/praat/ - Anoter TTS
+http://www.sppas.org/ - A STT
+
+## Data Science
+
+https://statsmaths.github.io/stat289-f18/ - Cours to learn data science
+
+## Bibliography
+
+https://zbib.org/ - Quick citation tool
+https://www.zotero.org/ - Citation and bibliography app
